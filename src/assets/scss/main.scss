@@ -1,0 +1,37 @@
+.fs-0{
+    font-size: 4rem;
+}
+.fs-7{
+    font-size: 0.8rem;
+}
+.fs-8{
+    font-size: 0.6rem;
+}
+.signUpBtn {
+    width: 40%;
+}
+.line{
+    text-decoration: none;
+}
+.line:hover{
+    border-bottom: 1px solid ;
+}
+.bg-gray{
+    background-color: #f0f2f5;
+}
+@media (min-width: 992px) {
+    footer{
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+}
+
+
+// *{
+//     border: 1px solid black;
+// }
+
+// @import "./abstracts/variables";
+
+@import "~bootstrap/scss/bootstrap";
