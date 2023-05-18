@@ -19,6 +19,21 @@
 .bg-gray{
     background-color: #f0f2f5;
 }
+
+// nav button
+.nav_btn:hover i{
+    color: #0d6efd;
+}
+.nav_btn button:hover{
+    background-color: #f0f2f5;
+}
+.nav_btn-active i {
+    color: #0d6efd;
+}
+
+
+
+
 @media (min-width: 992px) {
     footer{
       position: fixed;
